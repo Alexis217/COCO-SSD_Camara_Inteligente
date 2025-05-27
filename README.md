@@ -25,7 +25,7 @@ Este proyecto permite **detectar múltiples objetos en tiempo real** utilizando 
 ## 🧪 Prueba el proyecto
 
 ```bash
-git clone https://github.com/tu-usuario/deteccion-objetos-tfjs.git
+git clone https://github.com/Alexis217/COCO-SSD_Camara_Inteligente.git
 # Abre index.html en un navegador compatible con getUserMedia
 ```
 
